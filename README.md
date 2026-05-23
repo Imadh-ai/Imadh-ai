@@ -69,24 +69,6 @@ me.say_hi()
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 📄 **[PDF Q&A Assistant](https://github.com/Imadh-ai/PDF-GPT-Assistant)** | RAG-powered document intelligence — upload any PDF, ask anything, get instant grounded answers | `Python` `Streamlit` `LLaMA 3.1` `FAISS` `RAG` |
-| 🧠 **[NeuroScan Brain Tumor Detection](https://github.com/Imadh-ai/NeuroScan-Brain_Tumor-Detection_System)** | Intelligent medical imaging system for brain tumor detection using MRI analysis | `Python` `OpenCV` `ML` `Image Segmentation` |
-| 🏙️ **[Urbanization Analysis](https://github.com/Imadh-ai/Urbanization-Analysis)** | Urbanization analysis & future growth prediction for Kurunegala District | `Python` `Data Science` `Prediction` |
-| 🏋️ **[CalorieSense AI Fitness Coach](https://github.com/Imadh-ai/Caloriesense-AI-fitness-Coach)** | AI-powered calorie prediction & adaptive fitness coaching system | `Python` `ML` `Jupyter` |
-| 🤖 **[Smart Workshop Robot](https://github.com/Imadh-ai/Smart-Workshop-Tool-Carrying-Human-Following-Robot)** | Autonomous human-following robot with Wi-Fi RSSI & ultrasonic sensors | `JavaScript` `ESP32` `IoT` |
-| 🚨 **[CrimeGuard AI](https://github.com/Imadh-ai/CrimeGuard-AI)** | AI system that predicts crime risk levels using historical data | `Python` `ML` `Data Analysis` |
-| 🧳 **[Luggage Delivery Robot](https://github.com/Imadh-ai/Luggage-Delivery-Robot)** | Dual ESP32 autonomous robot with RFID navigation & Firebase monitoring | `C++` `ESP32` `RFID` `Firebase` |
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
