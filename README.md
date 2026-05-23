@@ -1,6 +1,6 @@
 <div align="center">
 
-<video src="https://raw.githubusercontent.com/Imadh-ai/Imadh-ai/main/172156-846731269_medium%20(1).mp4" width="600" autoplay loop muted></video>
+<img src="https://raw.githubusercontent.com/Imadh-ai/Imadh-ai/main/172156-846731269_medium%20(1).mp4" width="600"/>
 
 <br/>
 
