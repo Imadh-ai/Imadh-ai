@@ -1,101 +1,150 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003B00&height=200&section=header&text=IMADH%20AHAMED&fontSize=50&fontColor=00FF41&animation=blinking&fontAlignY=45&desc=%3E_%20AI%20%2F%20ML%20ENGINEER%20%7C%20INTELLIGENT%20SYSTEMS&descAlignY=65&descSize=15&descColor=00FF41"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Imadh%20Ahamed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%7C%20Python%20Developer&descAlignY=55&descSize=18"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Aspiring+AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+Intelligent+Applications+%F0%9F%9A%80;Deep+Learning+%7C+Computer+Vision+%7C+NLP+%F0%9F%A7%A0;Always+Learning%2C+Always+Building+%F0%9F%92%AA)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=650&lines=+Initializing+AI+Systems...;+Loading+Machine+Learning+Models...;+RAG+Pipeline+Active...;+Deep+Learning+%7C+Computer+Vision+%7C+NLP;+Always+Learning.+Always+Shipping.;+Welcome+to+my+Matrix...)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/imadh-ahamed-555509362)
-[![Gmail](https://img.shields.io/badge/Gmail-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:imadhlm1030@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Imadh-ai)
-[![Profile Views](https://komarev.com/ghpvc/?username=Imadh-ai&style=for-the-badge&color=00FF41&label=VISITORS&labelColor=000000)](https://github.com/Imadh-ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imadh-ahamed-555509362)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Imadh-ai)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imadhlm1030@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Imadh-ai&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/Imadh-ai)
 
 </div>
 
 ---
+
+## 🧠 About Me
 
 ```python
-> whoami
+class ImadhAhamed:
+    def __init__(self):
+        self.name        = "Imadh Ahamed"
+        self.role        = "Aspiring AI/ML Engineer"
+        self.location    = "Sri Lanka 🇱🇰"
+        self.education   = "Student"
+        self.interests   = ["Artificial Intelligence", "Deep Learning",
+                            "Computer Vision", "NLP", "RAG Systems"]
+        self.currently   = "Building real-world AI applications"
+        self.looking_for = "Exciting opportunities in AI/ML"
 
-{
-  "name"       : "Imadh Ahamed",
-  "role"       : "AI / ML Engineer",
-  "location"   : "Sri Lanka 🇱🇰",
-  "focus"      : ["LLMs", "RAG Systems", "Computer Vision", "Deep Learning"],
-  "status"     : "Open to AI/ML Opportunities 🚀",
-  "motto"      : "Build. Break. Learn. Repeat."
-}
+    def say_hi(self):
+        print("Thanks for visiting my profile! Let's build something amazing together 🚀")
+
+me = ImadhAhamed()
+me.say_hi()
 ```
 
 ---
 
-```bash
-> cat tech_stack.txt
-```
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF41)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=00FF41)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00FF41)
-![LLaMA](https://img.shields.io/badge/LLaMA_3.1-000000?style=for-the-badge&logo=meta&logoColor=00FF41)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=00FF41)
-![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=00FF41)
-![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=facebook&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF41)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00FF41)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🚀 Frameworks & Tools
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-blue?style=for-the-badge&logo=facebook&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🧠 LLMs & RAG
+![LLaMA](https://img.shields.io/badge/LLaMA_3.1-Meta-orange?style=for-the-badge&logo=meta&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-API-red?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 </div>
 
 ---
 
-```bash
-> ./run_stats.sh
-```
+## 🏆 Featured Projects
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Imadh-ai&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Imadh-ai&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&sideNums=00FF41&currStreakNum=00FF41"/>
-
-<br/><br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Imadh-ai&theme=react-dark&hide_border=true&bg_color=000000&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=003B00)
+| Project | Description | Tech |
+|---------|-------------|------|
+| 📄 **[PDF Q&A Assistant](https://github.com/Imadh-ai/PDF-GPT-Assistant)** | RAG-powered document intelligence — upload any PDF, ask anything, get instant grounded answers | `Python` `Streamlit` `LLaMA 3.1` `FAISS` `RAG` |
+| 🧠 **[NeuroScan Brain Tumor Detection](https://github.com/Imadh-ai/NeuroScan-Brain_Tumor-Detection_System)** | Intelligent medical imaging system for brain tumor detection using MRI analysis | `Python` `OpenCV` `ML` `Image Segmentation` |
+| 🏙️ **[Urbanization Analysis](https://github.com/Imadh-ai/Urbanization-Analysis)** | Urbanization analysis & future growth prediction for Kurunegala District | `Python` `Data Science` `Prediction` |
+| 🏋️ **[CalorieSense AI Fitness Coach](https://github.com/Imadh-ai/Caloriesense-AI-fitness-Coach)** | AI-powered calorie prediction & adaptive fitness coaching system | `Python` `ML` `Jupyter` |
+| 🤖 **[Smart Workshop Robot](https://github.com/Imadh-ai/Smart-Workshop-Tool-Carrying-Human-Following-Robot)** | Autonomous human-following robot with Wi-Fi RSSI & ultrasonic sensors | `JavaScript` `ESP32` `IoT` |
+| 🚨 **[CrimeGuard AI](https://github.com/Imadh-ai/CrimeGuard-AI)** | AI system that predicts crime risk levels using historical data | `Python` `ML` `Data Analysis` |
+| 🧳 **[Luggage Delivery Robot](https://github.com/Imadh-ai/Luggage-Delivery-Robot)** | Dual ESP32 autonomous robot with RFID navigation & Firebase monitoring | `C++` `ESP32` `RFID` `Firebase` |
 
 </div>
 
 ---
 
-```bash
-> cat trophies.log
-```
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Imadh-ai&theme=matrix&no-frame=true&row=1&column=7&margin-w=10)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Imadh-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Imadh-ai&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imadh-ai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
 
+## 🏅 Achievements
+
 <div align="center">
 
-```bash
-> echo "Let's build something legendary"
-Let's build something legendary 🚀
-> _
+![Trophy](https://github-profile-trophy.vercel.app/?username=Imadh-ai&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Imadh-ai&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 💡 Current Focus
+
+```
+🔭 Building AI-powered real-world applications
+🌱 Deepening knowledge in LLMs & RAG systems
+🧠 Exploring Computer Vision & Deep Learning
+🤝 Open to collaborations on AI/ML projects
+💼 Looking for AI/ML internship & job opportunities
 ```
 
-[![Connect](https://img.shields.io/badge/Let's_Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/imadh-ahamed-555509362)
+---
 
-⭐ **Drop a star if you like what you see!** ⭐
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:003B00,100:000000&height=80&section=footer&text=%3E_&fontSize=30&fontColor=00FF41&animation=blinking"/>
+### 🤝 Let's Connect & Build Something Amazing!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Imadh_Ahamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imadh-ahamed-555509362)
+[![Gmail](https://img.shields.io/badge/Gmail-imadhlm1030@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imadhlm1030@gmail.com)
+
+<br/>
+
+⭐ **If you like my work, consider giving my repos a star!** ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
